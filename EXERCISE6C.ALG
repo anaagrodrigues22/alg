@@ -1,8 +1,7 @@
-Algoritmo "LATA DE ÓLEO"
+Algoritmo "LATA DE Ã“LEO"
 // 
-// Professor   : Alberson Wander Sá dos Santos
-// Descrição   : Lata de óleo (exercício C)
-// Autor(a)    : Ana Alice Gonçalves Rorigues
+// DescriÃ§Ã£o   : Lata de Ã³leo (exercÃ­cio C)
+// Autor(a)    : Ana Alice GonÃ§alves Rorigues
 // Data atual  : 15/02/2022
 Var
 v, r, h, l:real
@@ -17,5 +16,5 @@ leia (h)
 v <- 3.14159* r ^2* h
 
      limpatela
-escreval ("o volume da lata é igual a",v ,"")
+escreval ("o volume da lata Ã© igual a",v ,"")
 Fimalgoritmo
